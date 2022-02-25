@@ -4,8 +4,8 @@ Java 11 installed
 maven installed
 
 How to Build:
-clone the repository $ git clone
-then project-maven-updateproject
+clone the repository $ git clone https://github.com/seema0428/gasstation-assessment.git
+then select project-maven-updateproject
 
 $ mvn clean install
 
