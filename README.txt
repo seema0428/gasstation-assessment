@@ -5,7 +5,7 @@ maven installed
 
 How to Build:
 clone the repository $ git clone https://github.com/seema0428/gasstation-assessment.git
-then project-maven-updateproject
+then select project-maven-updateproject
 
 $ mvn clean install
 
